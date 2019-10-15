@@ -1,0 +1,26 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "javascript javascript30",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minmaxdata/JavaScript30.git"
+  },
+  "keywords": [
+    "javascript",
+    "javascript30"
+  ],
+  "author": "minmaxdata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minmaxdata/JavaScript30/issues"
+  },
+  "homepage": "https://github.com/minmaxdata/JavaScript30#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
